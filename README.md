@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adxambek
+- 👀 I’m interested in Java and JavaScript
+- 🌱 I’m currently learning Java Backend
+- 💞️ I’m looking to collaborate on Epam EcoSystem 
+- 📫 How to reach me t.me/@Adxambek1202
