@@ -6,7 +6,7 @@
 - 👀 I am Java developer<br>
 - ✈️ [Connect with Telegram](https://t.me/Adxambek_1202) 
 - ✈️  [Linkedin](https://www.linkedin.com/in/adkhambek-makhmudov-5005a4232/)
-- ✈️  [twitter](https://twitter.com/Adxambek19)
+- ✈️  [Twitter](https://twitter.com/Adxambek19)
 
 
 # 💻 Tech Stack:
