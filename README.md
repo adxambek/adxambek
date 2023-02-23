@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adxambek19" target="blank"><img src="https://img.shields.io/twitter/follow/adxambek19?logo=twitter&style=for-the-badge" alt="adxambek19" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance**
-
 - 🌱 I’m currently learning **Spring Framework and Spring Boot**
-
-- 👯 I’m looking to collaborate on **It park Uzbekistan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
