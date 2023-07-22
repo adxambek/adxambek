@@ -1,5 +1,5 @@
 <h1 align="center">Hello guys 👋, I'm Adxambek</h1>
-<h3 align="center">I am Backend developer from Uzbekistan</h3>
+<h3 align="center">I am Fullstack web developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adxambek&label=Profile%20views&color=0e75b6&style=flat" alt="adxambek" /> </p>
 
